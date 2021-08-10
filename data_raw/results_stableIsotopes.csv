@@ -1,0 +1,58 @@
+"SAMPLE_ID","OurLabID","d13C","perC","d15N","perN","Amount..mg.","Diet","SpeciesCode","Binomial","Vial.ID","IRMS.SAMPLE.ID","SAMPLE.DESCRIPTION","Ala","Gly","Val","Leu","Ile","Pro","Ser","Glu","Phe","TP"
+"X34","G-27666",-21.87,43.45,8.85,15.51,1.198,"Sanguivorous","DIEC","Diphylla ecaudata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X35","G-27667",-22.08,43.12,8.44,15.97,1.162,"Sanguivorous","DIEC","Diphylla ecaudata","I2","","",14.2,11.9,20.7,NA,NA,22.1,NA,20,11.6,3.2
+"X1","G-27633",-23.28,45.19,10.93,16.04,1.15,"Carnivorous","TRCI","Trachops cirrhosus","G3","","",NA,5.1,12.6,NA,NA,19,NA,13.7,2.3,3.6
+"X2","G-27634",-23.35,45.76,11.53,15.98,1.723,"Carnivorous","TRCI","Trachops cirrhosus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X3","G-27635",-23.23,44.33,12.58,16.08,0.911,"Carnivorous","TRCI","Trachops cirrhosus","G4","","",NA,7.3,14,11.7,11,23.4,NA,19.3,8.1,3.6
+"X4","G-27636",-23.48,44.7,10.92,15.63,0.975,"Carnivorous","TRCI","Trachops cirrhosus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X5","G-27637",-23.64,44.71,10.61,15.75,0.887,"Carnivorous","TRCI","Trachops cirrhosus","H7","","",NA,7.7,NA,NA,NA,NA,NA,17.3,7.1,3.5
+"X6","G-27638",-21.24,43.91,12.48,16.26,0.855,"Carnivorous","VASP","Vampyrum spectrum","12","160728-06","MAX  VASP",NA,11.6,18.4,6.8,15.1,NA,10,20.9,10.1,3.5
+"X7","G-27639",-21.87,43.94,12.28,16.02,0.894,"Carnivorous","VASP","Vampyrum spectrum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X8","G-27640",-22.14,43.86,12.36,16.33,1.214,"Carnivorous","VASP","Vampyrum spectrum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X9","G-27641",-22.18,43.65,10.26,15.33,0.901,"Carnivorous","VASP","Vampyrum spectrum","15","160728-09","MIN  VASP",12.1,11.8,15.6,5.6,12.9,18.9,8.4,18,6.5,3.6
+"X10","G-27642",-21.33,44.56,10.52,15.82,1.16,"Carnivorous","VASP","Vampyrum spectrum","5","160728-10","MED  VASP",NA,13.6,15.6,NA,NA,NA,3.4,17.2,4.3,3.8
+"X11","G-27643",-14.23,44.13,19.71,15.3,1.286,"Piscivorous","MYVI","Myotis vivesi","4","160728-11","MED  MYVI",NA,16.6,27,16.5,32.4,23.5,12,31.7,8,3.7
+"X12","G-27644",-14.75,44.36,19.38,15.56,0.974,"Piscivorous","MYVI","Myotis vivesi","14","160728-12","MIN  MYVI",NA,15.1,29.2,15.9,NA,32.1,23.9,29.8,5.4,3.8
+"X13","G-27645",-14.12,43.19,19.8,15.45,0.805,"Piscivorous","MYVI","Myotis vivesi","13","291727","Last MYVI",14.5,-7.1,21.7,NA,NA,25,NA,23.1,0.7,3.5
+"X14","G-27646",-14.55,44.38,19.88,15.58,0.845,"Piscivorous","MYVI","Myotis vivesi","14","291728","Last MYVI",23.3,16.9,30.2,NA,NA,33,NA,33.1,9.4,3.7
+"X15","G-27647",-14.62,44.56,20.52,16.01,1.336,"Piscivorous","MYVI","Myotis vivesi","11","160728-15","MAX  MYVI",NA,13.4,30,16.2,21.9,27.6,18.7,31.8,10.9,3.3
+"X16","G-27648",-13.96,42.92,10.61,16.32,0.954,"Sanguivorous","DERO","Desmodus rotundus","13","160728-16","MAX  DERO",NA,7,15,7.4,NA,14.5,4.9,16,8.2,3.1
+"X17","G-27649",-11.64,42.42,8.95,15.71,0.789,"Sanguivorous","DERO","Desmodus rotundus","16","160728-17","MIN  DERO",10.7,8,11.2,7.1,9.7,13.8,5.6,15.3,10.4,2.7
+"X18","G-27650",-13.17,42.58,9.57,16.03,1.272,"Sanguivorous","DERO","Desmodus rotundus","6","160728-18","MED  DERO",NA,NA,NA,NA,NA,NA,NA,17.6,10.8,3
+"X19","G-27651",-10.08,41.75,10.13,15.71,0.768,"Sanguivorous","DERO","Desmodus rotundus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X20","G-27652",-9.5,43.14,9.78,16.11,1.297,"Sanguivorous","DERO","Desmodus rotundus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X21","G-27653",-21.28,44.27,6.75,14.79,0.807,"Frugivorous","ARJA","Artibeus jamaicensis","9","160728-21","MIN  ARJA",5.7,-3.4,9,8.3,10.3,12.4,2.4,11.2,12.8,1.9
+"X22","G-27654",-21.27,44.68,8.24,15.07,1.132,"Frugivorous","ARJA","Artibeus jamaicensis","10","160728-22","MAX  ARJA",NA,4,11.6,5,9.2,15.1,NA,13.5,15.4,1.9
+"X23","G-27655",-21.51,45.08,7.37,14.71,0.803,"Frugivorous","ARJA","Artibeus jamaicensis","3","160728-23","MED  ARJA",NA,7.1,7.6,2.7,9,13.1,-8.6,9.1,10,2
+"X24","G-27656",-21.24,45.93,7.93,14.89,1.278,"Frugivorous","ARJA","Artibeus jamaicensis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X25","G-27657",-21.94,44.12,7.56,14.52,0.946,"Frugivorous","ARJA","Artibeus jamaicensis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X26","G-27658",-21.81,46.58,7.88,14.49,0.968,"Frugivorous","GLSO","Glossophaga soricina","7","160728-26","MIN  GLSO",9,9.7,14.3,6,12.7,14.1,6.6,13.6,10.2,2.5
+"X27","G-27659",-20.75,46.6,8.3,13,0.797,"Frugivorous","GLSO","Glossophaga soricina","2","160728-27","MED  GLSO",4.6,9.4,7.7,2.8,8.2,14.6,NA,8.3,9.4,2
+"X28","G-27660",-19.78,45.04,12.01,15.25,0.784,"Frugivorous","GLSO","Glossophaga soricina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X29","G-27661",-19.49,44.29,14,14.78,0.979,"Frugivorous","GLSO","Glossophaga soricina","8","160728-29","MAX  GLSO",14.2,15.1,19.6,10.6,13,22.4,10.2,16.4,13.5,2.5
+"X30","G-27662",-20.38,45.06,9.28,15.27,1.21,"Frugivorous","GLSO","Glossophaga soricina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X31","G-27663",-21.82,43.46,8.67,15.78,1.497,"Sanguivorous","DIEC","Diphylla ecaudata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X32","G-27664",-21.64,42.91,9,15.36,0.801,"Sanguivorous","DIEC","Diphylla ecaudata","H6","","",12.6,6,15.4,NA,NA,18.4,NA,15.8,11.2,2.7
+"X33","G-27665",-21.75,43.71,8.7,15.8,1.662,"Sanguivorous","DIEC","Diphylla ecaudata","H5","","",11.3,7.4,14.6,NA,NA,17.5,NA,15.6,9.3,2.9
+"X521","G-27440",-24.17,42.89,8.31,14.94,0.757,"Insectivorous","LACI","Lasiurus cinereus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X704","G-27441",-19.28,42.07,6.63,13.14,0.833,"Insectivorous","LANO","Lasionycteris noctivagans","H2","","",7.2,6.8,11.6,NA,NA,18,NA,13.1,9.8,2.5
+"X706","G-27442",-23.8,44.26,8.77,15.87,0.725,"Insectivorous","LANO","Lasionycteris noctivagans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X544","G-27443",-24.57,45.99,8.45,16.84,1.492,"Insectivorous","LACI","Lasiurus cinereus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X522","G-27444",-27.22,43.06,9.54,15.89,1.112,"Insectivorous","LACI","Lasiurus cinereus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X503","G-27445",-23.96,44.35,9.55,16.37,1.099,"Insectivorous","LACI","Lasiurus cinereus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X539","G-27447",-24.74,44.16,9.51,16.63,1.319,"Insectivorous","LACI","Lasiurus cinereus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X705","G-27448",-24.02,45.64,8.97,16.21,1.691,"Insectivorous","LANO","Lasionycteris noctivagans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X501","G-27450",-25.06,44.07,9.08,16.2,0.713,"Insectivorous","LACI","Lasiurus cinereus","H3","","",9.3,6.4,15.8,NA,NA,20,NA,16.2,12.3,2.6
+"X702","G-27452",-24.3,46.34,8.09,14.01,0.995,"Insectivorous","LANO","Lasionycteris noctivagans","I1","","",13.2,10.5,18.4,NA,NA,NA,NA,14.3,10.8,2.6
+"X534","G-27453",-24.13,43.85,8.67,16.47,1.056,"Insectivorous","LACI","Lasiurus cinereus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X542","G-27454",-23.42,43.78,8.22,16.14,1.09,"Insectivorous","LACI","Lasiurus cinereus","H8","","",12.8,8.3,19,7.4,14,22,NA,16.8,13.3,2.6
+"X532","G-27455",-22.35,43.41,10.9,16.23,1.119,"Insectivorous","LACI","Lasiurus cinereus","F2","","",12.2,10.5,14.6,NA,NA,NA,NA,17.2,13.6,2.6
+"X713","G-27457",-24.77,43.8,10.41,15.17,0.807,"Insectivorous","LANO","Lasionycteris noctivagans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X701","G-27460",-24.94,47.41,7.68,14.73,1.215,"Insectivorous","LANO","Lasionycteris noctivagans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X500","G-27465",-24.97,43.66,9.13,15.99,1.15,"Insectivorous","LACI","Lasiurus cinereus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X505","G-27466",-24.92,44.2,9.31,15.92,1.222,"Insectivorous","LACI","Lasiurus cinereus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X711","G-27467",-24.48,44.54,7.12,15.45,0.901,"Insectivorous","LANO","Lasionycteris noctivagans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X707","G-27468",-21.14,43.48,10.22,15.21,0.934,"Insectivorous","LANO","Lasionycteris noctivagans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X550","G-27471",-24.36,43.4,8.65,15.57,0.824,"Insectivorous","LACI","Lasiurus cinereus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"X710","G-27472",-22.44,40.11,11.44,15.18,0.796,"Insectivorous","LANO","Lasionycteris noctivagans","I4","","",9.9,-1.2,12.1,9.4,14.9,NA,NA,16,13.1,2.5
+"X541","G-27473",-24.83,43.84,9.2,15.94,0.998,"Insectivorous","LACI","Lasiurus cinereus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
